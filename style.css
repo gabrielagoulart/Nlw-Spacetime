@@ -162,4 +162,8 @@ aside spam {
         overflow-y: visible;
         padding: 22px;
     }
+
+    .memory img {
+        pointer-events: none;
+    }
 }
