@@ -165,5 +165,5 @@ aside spam {
 
     .memory img {
         pointer-events: none;
-    }
+    } /*remove o hover aplicado em outro @media*/
 }
